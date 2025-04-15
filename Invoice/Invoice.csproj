@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\icons\avatar-design.png" />
+    <None Remove="assets\icons\back.jpg" />
+    <None Remove="assets\icons\back.png" />
+    <None Remove="assets\icons\bin.png" />
+    <None Remove="assets\icons\check-out.png" />
+    <None Remove="assets\icons\database.png" />
+    <None Remove="assets\icons\enter.png" />
+    <None Remove="assets\icons\export.png" />
+    <None Remove="assets\icons\home-button.png" />
+    <None Remove="assets\icons\in-stock.png" />
+    <None Remove="assets\icons\logout.png" />
+    <None Remove="assets\icons\padlock.png" />
+    <None Remove="assets\icons\padlock1.png" />
+    <None Remove="assets\icons\previous.png" />
+    <None Remove="assets\icons\profile.png" />
+    <None Remove="assets\icons\project-manager.png" />
+    <None Remove="assets\icons\report.png" />
+    <None Remove="assets\icons\reset-password.png" />
+    <None Remove="assets\icons\sales.png" />
+    <None Remove="assets\icons\settings.png" />
+    <None Remove="assets\icons\switch.png" />
+    <None Remove="assets\icons\user-logout.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="QuestPDF" Version="2025.1.5" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\icons\avatar-design.png" />
+    <Resource Include="assets\icons\back.jpg" />
+    <Resource Include="assets\icons\back.png" />
+    <Resource Include="assets\icons\bin.png" />
+    <Resource Include="assets\icons\check-out.png" />
+    <Resource Include="assets\icons\database.png" />
+    <Resource Include="assets\icons\enter.png" />
+    <Resource Include="assets\icons\export.png" />
+    <Resource Include="assets\icons\home-button.png" />
+    <Resource Include="assets\icons\in-stock.png" />
+    <Resource Include="assets\icons\logout.png" />
+    <Resource Include="assets\icons\padlock.png" />
+    <Resource Include="assets\icons\padlock1.png" />
+    <Resource Include="assets\icons\previous.png" />
+    <Resource Include="assets\icons\profile.png" />
+    <Resource Include="assets\icons\project-manager.png" />
+    <Resource Include="assets\icons\report.png" />
+    <Resource Include="assets\icons\reset-password.png" />
+    <Resource Include="assets\icons\sales.png" />
+    <Resource Include="assets\icons\settings.png" />
+    <Resource Include="assets\icons\switch.png" />
+    <Resource Include="assets\icons\user-logout.png" />
+  </ItemGroup>
+
+</Project>

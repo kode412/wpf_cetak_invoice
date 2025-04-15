@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|c:\\users\\purwanto\\source\\repos\\invoice\\invoice\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|solutionrelative:invoice\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|c:\\users\\purwanto\\source\\repos\\invoice\\invoice\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|solutionrelative:invoice\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|c:\\users\\purwanto\\source\\repos\\invoice\\invoice\\crudpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|solutionrelative:invoice\\crudpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|c:\\users\\purwanto\\source\\repos\\invoice\\invoice\\databaseconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|solutionrelative:invoice\\databaseconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|c:\\users\\purwanto\\source\\repos\\invoice\\invoice\\crudpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D4D7CF3-F995-4821-B8EF-E617B896A697}|Invoice\\Invoice.csproj|solutionrelative:invoice\\crudpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConn.cs",
+              "DocumentMoniker": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\DatabaseConn.cs",
+              "RelativeDocumentMoniker": "Invoice\\DatabaseConn.cs",
+              "ToolTip": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\DatabaseConn.cs",
+              "RelativeToolTip": "Invoice\\DatabaseConn.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:11:15.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\CrudPage.xaml.cs",
+              "RelativeDocumentMoniker": "Invoice\\CrudPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\CrudPage.xaml.cs",
+              "RelativeToolTip": "Invoice\\CrudPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:35:50.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\CrudPage.xaml",
+              "RelativeDocumentMoniker": "Invoice\\CrudPage.xaml",
+              "ToolTip": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\CrudPage.xaml",
+              "RelativeToolTip": "Invoice\\CrudPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T11:28:06.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Invoice\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\MainPage.xaml.cs",
+              "RelativeToolTip": "Invoice\\MainPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:51:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Invoice\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Purwanto\\source\\repos\\Invoice\\Invoice\\MainPage.xaml",
+              "RelativeToolTip": "Invoice\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T09:48:28.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
